@@ -1,0 +1,3 @@
+[submodule "Submodule-task"]
+	path = Submodule-task
+	url = https://github.com/TevaTavo/Submodule-task.git
